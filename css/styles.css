@@ -1,0 +1,21 @@
+h1{
+    color:blueviolet;
+    text-align:center;
+}
+h2{
+    color: skyblue;
+    text-align: center;
+    font-style: unset;
+}
+.intro{
+    font-family: sans-serif;
+    line-height: 30px;
+    text-align: center;
+}
+ul{
+    font-style: italic;
+    line-height: 40px;
+}
+body{
+    background-color: brown;
+}
